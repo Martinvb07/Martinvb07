@@ -42,7 +42,7 @@
 
 ### 🧰 Otras Tecnologías
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=mysql,mongo,git,github,linux" />
 </p>
 
 <p>
