@@ -18,8 +18,8 @@ Estudiante de Ingeniería de Sistemas en la **Universidad Cooperativa de Colombi
 
 Disfruto igual el frontend que el backend. Me gusta el ciclo completo: pensar la arquitectura, escribir el código, desplegarlo en un VPS y verlo correr. Siempre aprendiendo algo nuevo porque el campo avanza rápido y eso me gusta.
 
-- 🔭 Trabajando actualmente en **ReservaTuCancha** — plataforma de reserva de canchas deportivas en tiempo real
-- 🌱 Aprendiendo **NestJS · Docker · Redis**
+- 🔭 Trabajando actualmente en **Cuscus Hats** — plataforma de lanzamientos de moda con drops limitados
+- 🌱 Aprendiendo **Docker · Redis · Framer Motion**
 - 💼 Disponible para proyectos freelance y colaboraciones
 - 📍 Villavicencio, Colombia
 - 📩 **martinvelasquezdev@gmail.com**
@@ -35,12 +35,12 @@ Disfruto igual el frontend que el backend. Me gusta el ciclo completo: pensar la
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java" />
 </p>
 
 ### Base de datos & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,nginx,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,redis,docker,nginx,linux,git,github" />
 </p>
 
 ---
@@ -49,14 +49,15 @@ Disfruto igual el frontend que el backend. Me gusta el ciclo completo: pensar la
 
 | Proyecto | Descripción | Stack | Estado |
 |----------|-------------|-------|--------|
+| 🧢 [**Cuscus Hats**](https://cuscushats.com) | Plataforma de lanzamientos de moda con drops limitados y countdown | Next.js · Framer Motion · Lenis · Express · MongoDB | ✅ Online |
 | 🎾 [**ReservaTuCancha**](https://reservatucancha.site) | Plataforma de reserva de canchas deportivas en tiempo real | Next.js · NestJS · MongoDB · Socket.io · Wompi | ✅ Online |
-| 🌾 [**AgroManager Pro**](https://agromanager.pro) | SaaS de gestión agrícola con IA integrada | React · Express · MySQL · JWT | ✅ Online |
-| 🍽️ [**MeSoft**](https://mesoft.store) | SaaS multi-tenant para restaurantes | React · Express · MySQL · JWT | ✅ Online |
-| 👕 **HoneyCol** | E-commerce streetwear con visor 3D en CSS puro | Next.js 15 · Express · MongoDB · Wompi | 🔨 Building |
+| 🌾 [**AgroManager Pro**](https://agromanager.pro) | SaaS de gestión agrícola con asistente IA integrado | React · Node.js · Oracle DB · JWT | ✅ Online |
+| 🍽️ [**MeSoft**](https://mesoft.store) | SaaS multi-tenant para restaurantes | React · NestJS · MongoDB · JWT | ✅ Online |
 | 🖥️ [**MartinHQ Monitor**](https://monitor.martin.dev) | Dashboard de monitoreo de infraestructura VPS | Next.js · Node.js · Docker · 2FA | ✅ Online |
-| 🤖 **GeoWorldMC Bot** | Bot oficial de Discord para servidor de Minecraft | Discord.js · Node.js · MySQL · Docker | ✅ Online |
 | 🍀 **Clover Bot** | Bot de gestión comunitaria en Discord | Discord.js v14 · Node.js · MySQL | ✅ Online |
+| 🤖 **GeoWorldMC Bot** | Bot oficial de Discord para servidor de Minecraft | Discord.js · Node.js · MySQL · Docker | ✅ Online |
 | ☕ **Sistema Gestión J** | App empresarial de nómina y permisos | Java · Swing · Oracle DB · JDBC | ✅ Entregado |
+| 👕 **HoneyCol** | E-commerce streetwear con visor 3D en CSS puro | Next.js 15 · Express · MongoDB · Wompi | 🔨 Building |
 
 ---
 
