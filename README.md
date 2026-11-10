@@ -1,21 +1,19 @@
-<div align="center">
+<a href="https://github.com/Martinvb07"><img src="./assets/banner.svg" width="100%" alt="Martín Velásquez · Full Stack & Mobile Developer" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6366f1&height=220&section=header&text=Martín%20Velásquez&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20·%20Mobile%20·%20SaaS%20Builder%20·%20DevOps&descSize=18&descAlignY=56&descColor=c7d2fe&animation=fadeIn" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=818CF8&center=true&vCenter=true&width=560&lines=Construyo+software+que+va+a+producci%C3%B3n+%F0%9F%9A%80;Web+%C2%B7+Mobile+%C2%B7+SaaS+%C2%B7+DevOps+%C2%B7+Bots;Fundador+de+Llano+Studio+%F0%9F%8C%BE;Villavicencio%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.linkedin.com/in/martin-velasquez-916ab5357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/MartinVBdev"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="mailto:martinvelasquezdev@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Martinvb07&style=flat-square&color=6366f1&label=Visitas" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/martin-velasquez-916ab5357/"><img src="https://img.shields.io/badge/LinkedIn-0a0f14?style=for-the-badge&logo=linkedin&logoColor=34d399" /></a>
+  <a href="https://twitter.com/MartinVBdev"><img src="https://img.shields.io/badge/X-0a0f14?style=for-the-badge&logo=x&logoColor=34d399" /></a>
+  <a href="mailto:martinvelasquezdev@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f14?style=for-the-badge&logo=gmail&logoColor=34d399" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Martinvb07&style=for-the-badge&color=10b981&label=VISITAS" />
 </p>
 
-</div>
+<br />
 
----
+<table>
+<tr>
+<td width="62%" valign="top">
 
-## 👨‍💻 Sobre mí
+### Sobre mí
 
 Soy Martín, de Villavicencio. Estudio Ingeniería de Sistemas en la Cooperativa, pero casi todo lo que sé lo aprendí sacando proyectos para clientes de verdad.
 
@@ -23,108 +21,142 @@ Empecé con Java y Oracle en la U, haciendo sistemas de nómina y citas médicas
 
 Con **Llano Studio** le hago software a negocios de la región: tiendas, fincas para alquilar, restaurantes. En los ratos libres armo bots de Discord para comunidades de Minecraft y servidores de juego.
 
-Ahora estoy metido en **Flutter** para sacar las versiones móviles de mis proyectos, y probando **Astro** y **Vue** en proyectos nuevos.
+</td>
+<td width="38%" valign="top">
 
-> 📬 Si tienes un negocio y necesitas una web, una app o un sistema interno, escríbeme a **martinvelasquezdev@gmail.com**.
+### Ahora mismo
 
----
+📱 Sacando las versiones **Flutter** de ReservaTuCancha y MeSoft
 
-## 🛠️ Stack tecnológico
+🧪 Probando **Astro** y **Vue** en proyectos nuevos
 
-<table>
-  <tr>
-    <td align="center" width="140"><b>Lenguajes</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,dart,python,java,html,css&perline=10" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind,vite,bootstrap&perline=10" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=10" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,python&perline=10" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Bases de datos</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase&perline=10" />&nbsp;<img height="48" src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>DevOps & Infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,git,github,githubactions&perline=10" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Herramientas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,postman,figma,jest,discord&perline=10" /></td>
-  </tr>
+🌾 Llevando proyectos de clientes en **Llano Studio**
+
+🐳 Moviendo todo a **Docker** + **Nginx** en mi VPS
+
+💬 Abierto a freelance: **martinvelasquezdev@gmail.com**
+
+</td>
+</tr>
 </table>
 
+<br />
+
+## Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wompi-1B1B1B?style=for-the-badge&logo=cashapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/IA_·_LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,astro,tailwind,vite,flutter,dart&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,python,mongodb,mysql,redis,firebase&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,githubactions,git,postman,figma,discord&theme=dark" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_DB-0a0f14?style=flat-square&logo=oracle&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/Socket.io-0a0f14?style=flat-square&logo=socketdotio&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0a0f14?style=flat-square&logo=framer&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/shadcn/ui-0a0f14?style=flat-square&logo=shadcnui&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/Zustand-0a0f14?style=flat-square&logo=react&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/Wompi-0a0f14?style=flat-square&logo=cashapp&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/PWA-0a0f14?style=flat-square&logo=pwa&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/Discord.js-0a0f14?style=flat-square&logo=discord&logoColor=34d399" />
+  <img src="https://img.shields.io/badge/LLM_APIs-0a0f14?style=flat-square&logo=openai&logoColor=34d399" />
+</p>
 
-## 🚀 Proyectos destacados
+<br />
 
-| Proyecto | Descripción | Stack | Estado |
-|----------|-------------|-------|:------:|
-| 🧢 [**Cuscus Hats**](https://cuscushats.com) | Plataforma de lanzamientos de moda con drops limitados y countdown | Next.js · Framer Motion · Lenis · Express · MongoDB | ✅ Online |
-| 🎾 [**ReservaTuCancha**](https://reservatucancha.site) | Reserva de canchas deportivas en tiempo real (web + app móvil) | Next.js · NestJS · MongoDB · Socket.io · Wompi · Flutter | ✅ Online |
-| 🌾 [**AgroManager Pro**](https://agromanager.pro) | SaaS de gestión agrícola con asistente IA (AgroBot) | React · Node.js · Oracle Cloud · PL/SQL · LLM APIs | ✅ Online |
-| 🍽️ [**MeSoft**](https://mesoft.store) | SaaS multi-tenant para restaurantes (web + app móvil) | React · NestJS · MongoDB · JWT · Flutter | ✅ Online |
-| 🏡 [**Rently**](https://github.com/Martinvb07/Rently) | Reservas de fincas en Colombia: calendario, temporadas, panel admin y PWA | TypeScript · PWA · WhatsApp | 🚀 Nuevo |
-| 🖥️ [**MartinHQ Monitor**](https://github.com/Martinvb07/monitor-vps) | Dashboard de monitoreo de infraestructura VPS | Next.js · Node.js · Docker · 2FA | ✅ Online |
-| 🌎 [**SismoCOL**](https://github.com/Martinvb07/SismoCOL) | Monitoreo de actividad sísmica en Colombia | TypeScript | 🚀 Nuevo |
-| 🍀 **Clover Bot** | Bot de gestión para servidores de venta de construcciones de Minecraft | Discord.js v14 · Node.js · MySQL | ✅ Online |
-| 🤖 **GeoWorldMC Bot** | Bot oficial de Discord para geoworldmc.net | Discord.js · Node.js · MySQL · Docker | ✅ Online |
-| ☕ **Sistema Gestión J** | App empresarial de nómina y permisos | Java · Swing · Oracle DB · JDBC | ✅ Entregado |
+## Proyectos en producción
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Ver todos los repos](https://img.shields.io/badge/Ver_todos_mis_repositorios-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martinvb07?tab=repositories)
+### 🧢 [Cuscus Hats](https://cuscushats.com)
+Tienda de gorras que lanza colecciones por **drops** limitados con cuenta regresiva.
 
-</div>
+<img src="https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/Framer_Motion-111?style=flat-square&logo=framer" /> <img src="https://img.shields.io/badge/Express-111?style=flat-square&logo=express" /> <img src="https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb" />
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📊 Estadísticas
+### 🎾 [ReservaTuCancha](https://reservatucancha.site)
+Reserva de canchas en **tiempo real** con pagos por Wompi. Web y app móvil.
 
-<div align="center">
+<img src="https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/NestJS-111?style=flat-square&logo=nestjs" /> <img src="https://img.shields.io/badge/Socket.io-111?style=flat-square&logo=socketdotio" /> <img src="https://img.shields.io/badge/Flutter-111?style=flat-square&logo=flutter" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Martinvb07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=e2e8f0&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinvb07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=e2e8f0&langs_count=8" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com/?user=Martinvb07&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=e2e8f0&dates=94a3b8" />
+### 🍽️ [MeSoft](https://mesoft.store)
+SaaS **multi-tenant** para restaurantes: mesas, pedidos, inventario, nómina y reportes.
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Martinvb07&bg_color=0f172a&color=a5b4fc&line=6366f1&point=e2e8f0&area=true&area_color=6366f1&hide_border=true" />
+<img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/NestJS-111?style=flat-square&logo=nestjs" /> <img src="https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb" /> <img src="https://img.shields.io/badge/Flutter-111?style=flat-square&logo=flutter" />
 
-</div>
+</td>
+<td width="50%" valign="top">
 
----
+### 🌾 [AgroManager Pro](https://agromanager.pro)
+Gestión agrícola: parcelas, siembras, riego y finanzas, con **AgroBot**, un asistente IA.
 
-## 🤝 Trabajemos juntos
+<img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs" /> <img src="https://img.shields.io/badge/Oracle_Cloud-111?style=flat-square&logo=oracle" /> <img src="https://img.shields.io/badge/LLM_APIs-111?style=flat-square&logo=openai" />
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-¿Tienes una idea, un negocio que digitalizar o un proyecto en mente? Escríbeme.
+### 🏡 [Rently](https://github.com/Martinvb07/Rently)
+Reservas de **fincas** en Colombia: calendario, temporadas, panel admin y PWA instalable.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-velasquez-916ab5357/)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martinvb07)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MartinVBdev)
-[![Email](https://img.shields.io/badge/martinvelasquezdev@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinvelasquezdev@gmail.com)
+<img src="https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/PWA-111?style=flat-square&logo=pwa" /> <img src="https://img.shields.io/badge/WhatsApp-111?style=flat-square&logo=whatsapp" />
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:312e81,100:0f172a&height=120&section=footer" width="100%" />
+### 🖥️ [MartinHQ Monitor](https://github.com/Martinvb07/monitor-vps)
+Dashboard para vigilar mi **VPS**: contenedores, recursos y acceso con 2FA.
+
+<img src="https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs" /> <img src="https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker" />
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Más proyectos</b></summary>
+<br />
+
+| | Proyecto | Qué es | Stack |
+|---|---|---|---|
+| 🌎 | [SismoCOL](https://github.com/Martinvb07/SismoCOL) | Monitoreo de actividad sísmica en Colombia | TypeScript |
+| 🍀 | Clover Bot | Bot para servidores de venta de construcciones de Minecraft | Discord.js · MySQL |
+| 🤖 | GeoWorldMC Bot | Bot oficial de Discord de geoworldmc.net | Discord.js · MySQL · Docker |
+| ☕ | Sistema Gestión J | Nómina y permisos para una empresa | Java · Swing · Oracle |
+
+</details>
+
+<br />
+
+## Actividad
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Martinvb07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f14&title_color=34d399&icon_color=22d3ee&text_color=cbd5e1&ring_color=34d399&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinvb07&layout=compact&hide_border=true&bg_color=0a0f14&title_color=34d399&text_color=cbd5e1&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Martinvb07&bg_color=0a0f14&color=94a3b8&line=34d399&point=a3e635&area=true&area_color=10b981&title_color=34d399&hide_border=true&custom_title=Contribuciones%20del%20último%20mes" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Martinvb07/Martinvb07/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Martinvb07/Martinvb07/output/snake.svg" />
+  <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/Martinvb07/Martinvb07/output/snake-dark.svg" width="100%" />
+</picture>
+
+<br />
+
+<p align="center">
+  <a href="mailto:martinvelasquezdev@gmail.com"><img src="https://img.shields.io/badge/¿Tienes_un_proyecto%3F_Escríbeme-10b981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
