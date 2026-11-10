@@ -17,19 +17,15 @@
 
 ## 👨‍💻 Sobre mí
 
-```ts
-const martin = {
-  rol: "Full Stack & Mobile Developer",
-  estudios: "Ingeniería de Sistemas · Universidad Cooperativa de Colombia",
-  ubicacion: "Villavicencio, Colombia 🇨🇴",
-  estudio: "Llano Studio — software a la medida para negocios",
-  enfoque: ["SaaS multi-tenant", "Apps móviles", "Tiempo real", "IA aplicada", "Infraestructura"],
-  aprendiendo: ["Flutter avanzado", "Astro", "Vue", "Redis", "Docker en producción"],
-  disponible: "Freelance y colaboraciones ✅",
-};
-```
+Soy Martín, de Villavicencio. Estudio Ingeniería de Sistemas en la Cooperativa, pero casi todo lo que sé lo aprendí sacando proyectos para clientes de verdad.
 
-Me apasiona construir software que resuelva problemas reales — no demos, sino sistemas que aguanten usuarios reales en producción. Disfruto el ciclo completo: diseñar la arquitectura, escribir el código, desplegarlo en mi propio VPS y verlo correr.
+Empecé con Java y Oracle en la U, haciendo sistemas de nómina y citas médicas. Después me pasé a la web y hoy tengo varias plataformas corriendo en mi propio VPS: una tienda de gorras que vende por drops, un sistema de reservas de canchas con pagos por Wompi, un software para restaurantes donde los meseros toman pedidos desde el celular y una app agrícola con un asistente de IA que responde sobre cultivos.
+
+Con **Llano Studio** le hago software a negocios de la región: tiendas, fincas para alquilar, restaurantes. En los ratos libres armo bots de Discord para comunidades de Minecraft y servidores de juego.
+
+Ahora estoy metido en **Flutter** para sacar las versiones móviles de mis proyectos, y probando **Astro** y **Vue** en proyectos nuevos.
+
+> 📬 Si tienes un negocio y necesitas una web, una app o un sistema interno, escríbeme a **martinvelasquezdev@gmail.com**.
 
 ---
 
